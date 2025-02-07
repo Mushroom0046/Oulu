@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wTQfSwbQpvM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\Oulu\\Oulu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\jsonconverter.abstractions\\0.7.1\\jsonconverter.abstractions.0.7.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\jsonconverter.newtonsoft.json\\0.7.1\\jsonconverter.newtonsoft.json.0.7.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\stef.validation\\0.1.1\\stef.validation.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
